@@ -1,0 +1,338 @@
+[
+    {
+      "city": "New York",
+      "temperature": 72,
+      "condition": "Sunny",
+      "windSpeed": 10,
+      "humidity": 50
+    },
+    {
+      "city": "Los Angeles",
+      "temperature": 75,
+      "condition": "Cloudy",
+      "windSpeed": 8,
+      "humidity": 60
+    },
+    {
+      "city": "Chicago",
+      "temperature": 68,
+      "condition": "Rainy",
+      "windSpeed": 12,
+      "humidity": 70
+    },
+    {
+      "city": "Houston",
+      "temperature": 80,
+      "condition": "Sunny",
+      "windSpeed": 7,
+      "humidity": 65
+    },
+    {
+      "city": "Phoenix",
+      "temperature": 85,
+      "condition": "Sunny",
+      "windSpeed": 5,
+      "humidity": 20
+    },
+    {
+      "city": "Philadelphia",
+      "temperature": 70,
+      "condition": "Cloudy",
+      "windSpeed": 9,
+      "humidity": 55
+    },
+    {
+      "city": "San Antonio",
+      "temperature": 82,
+      "condition": "Sunny",
+      "windSpeed": 6,
+      "humidity": 40
+    },
+    {
+      "city": "San Diego",
+      "temperature": 76,
+      "condition": "Cloudy",
+      "windSpeed": 10,
+      "humidity": 65
+    },
+    {
+      "city": "Dallas",
+      "temperature": 78,
+      "condition": "Rainy",
+      "windSpeed": 11,
+      "humidity": 75
+    },
+    {
+      "city": "San Jose",
+      "temperature": 73,
+      "condition": "Sunny",
+      "windSpeed": 8,
+      "humidity": 50
+    },
+    {
+      "city": "Austin",
+      "temperature": 79,
+      "condition": "Sunny",
+      "windSpeed": 7,
+      "humidity": 45
+    },
+    {
+      "city": "Jacksonville",
+      "temperature": 74,
+      "condition": "Cloudy",
+      "windSpeed": 9,
+      "humidity": 60
+    },
+    {
+      "city": "Fort Worth",
+      "temperature": 81,
+      "condition": "Sunny",
+      "windSpeed": 6,
+      "humidity": 50
+    },
+    {
+      "city": "Columbus",
+      "temperature": 68,
+      "condition": "Rainy",
+      "windSpeed": 12,
+      "humidity": 70
+    },
+    {
+      "city": "Charlotte",
+      "temperature": 72,
+      "condition": "Sunny",
+      "windSpeed": 8,
+      "humidity": 50
+    },
+    {
+      "city": "San Francisco",
+      "temperature": 66,
+      "condition": "Cloudy",
+      "windSpeed": 10,
+      "humidity": 75
+    },
+    {
+      "city": "Indianapolis",
+      "temperature": 69,
+      "condition": "Rainy",
+      "windSpeed": 11,
+      "humidity": 65
+    },
+    {
+      "city": "Seattle",
+      "temperature": 65,
+      "condition": "Rainy",
+      "windSpeed": 12,
+      "humidity": 80
+    },
+    {
+      "city": "Denver",
+      "temperature": 71,
+      "condition": "Sunny",
+      "windSpeed": 9,
+      "humidity": 40
+    },
+    {
+      "city": "Washington",
+      "temperature": 74,
+      "condition": "Cloudy",
+      "windSpeed": 8,
+      "humidity": 55
+    },
+    {
+      "city": "Boston",
+      "temperature": 67,
+      "condition": "Rainy",
+      "windSpeed": 13,
+      "humidity": 75
+    },
+    {
+      "city": "El Paso",
+      "temperature": 80,
+      "condition": "Sunny",
+      "windSpeed": 5,
+      "humidity": 30
+    },
+    {
+      "city": "Detroit",
+      "temperature": 70,
+      "condition": "Cloudy",
+      "windSpeed": 10,
+      "humidity": 60
+    },
+    {
+      "city": "Nashville",
+      "temperature": 75,
+      "condition": "Sunny",
+      "windSpeed": 8,
+      "humidity": 50
+    },
+    {
+      "city": "Memphis",
+      "temperature": 78,
+      "condition": "Sunny",
+      "windSpeed": 7,
+      "humidity": 55
+    },
+    {
+      "city": "Portland",
+      "temperature": 64,
+      "condition": "Rainy",
+      "windSpeed": 12,
+      "humidity": 80
+    },
+    {
+      "city": "Oklahoma City",
+      "temperature": 77,
+      "condition": "Cloudy",
+      "windSpeed": 9,
+      "humidity": 60
+    },
+    {
+      "city": "Las Vegas",
+      "temperature": 88,
+      "condition": "Sunny",
+      "windSpeed": 4,
+      "humidity": 15
+    },
+    {
+      "city": "Louisville",
+      "temperature": 73,
+      "condition": "Sunny",
+      "windSpeed": 10,
+      "humidity": 50
+    },
+    {
+      "city": "Baltimore",
+      "temperature": 71,
+      "condition": "Cloudy",
+      "windSpeed": 9,
+      "humidity": 55
+    },
+    {
+      "city": "Milwaukee",
+      "temperature": 68,
+      "condition": "Rainy",
+      "windSpeed": 11,
+      "humidity": 70
+    },
+    {
+      "city": "Albuquerque",
+      "temperature": 79,
+      "condition": "Sunny",
+      "windSpeed": 6,
+      "humidity": 30
+    },
+    {
+      "city": "Tucson",
+      "temperature": 84,
+      "condition": "Sunny",
+      "windSpeed": 5,
+      "humidity": 20
+    },
+    {
+      "city": "Fresno",
+      "temperature": 86,
+      "condition": "Sunny",
+      "windSpeed": 5,
+      "humidity": 25
+    },
+    {
+      "city": "Sacramento",
+      "temperature": 78,
+      "condition": "Cloudy",
+      "windSpeed": 8,
+      "humidity": 40
+    },
+    {
+      "city": "Kansas City",
+      "temperature": 74,
+      "condition": "Sunny",
+      "windSpeed": 9,
+      "humidity": 45
+    },
+    {
+      "city": "Mesa",
+      "temperature": 87,
+      "condition": "Sunny",
+      "windSpeed": 5,
+      "humidity": 20
+    },
+    {
+      "city": "Atlanta",
+      "temperature": 77,
+      "condition": "Sunny",
+      "windSpeed": 7,
+      "humidity": 50
+    },
+    {
+      "city": "Omaha",
+      "temperature": 72,
+      "condition": "Rainy",
+      "windSpeed": 11,
+      "humidity": 65
+    },
+    {
+      "city": "Colorado Springs",
+      "temperature": 70,
+      "condition": "Sunny",
+      "windSpeed": 6,
+      "humidity": 35
+    },
+    {
+      "city": "Raleigh",
+      "temperature": 73,
+      "condition": "Cloudy",
+      "windSpeed": 8,
+      "humidity": 55
+    },
+    {
+      "city": "Miami",
+      "temperature": 82,
+      "condition": "Sunny",
+      "windSpeed": 9,
+      "humidity": 70
+    },
+    {
+      "city": "Virginia Beach",
+      "temperature": 75,
+      "condition": "Cloudy",
+      "windSpeed": 8,
+      "humidity": 60
+    },
+    {
+      "city": "Oakland",
+      "temperature": 67,
+      "condition": "Rainy",
+      "windSpeed": 10,
+      "humidity": 80
+    },
+    {
+      "city": "Minneapolis",
+      "temperature": 69,
+      "condition": "Sunny",
+      "windSpeed": 7,
+      "humidity": 50
+    },
+    {
+      "city": "Tulsa",
+      "temperature": 76,
+      "condition": "Cloudy",
+      "windSpeed": 9,
+      "humidity": 55
+    },
+    {
+      "city": "Arlington",
+      "temperature": 80,
+      "condition": "Sunny",
+      "windSpeed": 6,
+      "humidity": 40
+    },
+    {
+      "city": "New Orleans",
+      "temperature": 79,
+      "condition": "Rainy",
+      "windSpeed": 12,
+      "humidity": 65
+    }
+]
